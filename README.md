@@ -1,6 +1,8 @@
 # awines1.github.io
 
 <!DOCTYPE html>
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -22,7 +24,9 @@
     <!-- About Section -->
     <section id="about">
         <h2>About Me</h2>
-        <p>Insert your bio here. You can include information about your background, skills, proficiencies, and a link to your resume.</p>
+        <p>Hello! I'm Alexia, a passionate data enthusiast with a knack for transforming data into compelling stories through code and visualization. With a background in aviation, and computer science, I've honed my skills in primarily python, R, and SQL, while being particularly fascinated by the power of data visualization to reveal insights, inform decisions, and to remove as much opinion about topics that I can.
+            On my GitHub, you'll find a portfolio of projects ranging from exploratory data analysis to sophisticated interactive visualizations.  Whether I'm uncovering trends in large datasets or developing tools that empower users to interact with data in new ways, I'm always looking for the next challenge that pushes the boundaries of what's possible with data. Let's connect and explore how we can make data-driven decisions more intuitive and impactful.
+            </p>
     </section>
 
     <!-- Projects Section -->
@@ -38,9 +42,9 @@
     <!-- Contact Section -->
     <section id="contact">
         <h2>Contact Me</h2>
-        <p>Email: your_email@example.com</p>
-        <p>Phone: +1234567890</p>
-        <p>Social Media: Insert links to your social media accounts (LinkedIn, GitHub, etc.)</p>
+        <p>Email: Alexiavasquez1@yahoo.com</p>
+        <p>Phone: +1 682-239-0598</p>
+        <p>Social Media: www.linkedin.com/in/alexia-vasquez-664577182</p>
     </section>
 
     <!-- Footer -->
@@ -50,3 +54,5 @@
 
 </body>
 </html>
+
+
