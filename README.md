@@ -1,6 +1,6 @@
 # awines1.github.io
 
-<!DOCTYPE html>
+
 
 
 <html lang="en">
@@ -50,7 +50,7 @@
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2024 Your Name</p>
+        <p>&copy; 2024 Alexia Vasquez</p>
     </footer>
 
 </body>
