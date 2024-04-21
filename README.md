@@ -1,6 +1,31 @@
 # awines1.github.io
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
 
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">YourName</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#home">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#work">Work</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contact">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
 
 
 <html lang="en">
@@ -12,6 +37,15 @@
 </head>
 <body>
 
+<section id="home" class="p-5 text-center bg-light">
+  <div class="container">
+    <img src=""C:\Users\lexiw\OneDrive\Desktop\Resume - Cover letter\resume photo.png"" alt="Alexia Vasquez" class="rounded-circle mb-3">
+    <h1>Welcome to My Portfolio</h1>
+    <p class="lead">SQL | Python | R</p>
+  </div>
+</section>
+
+
     <!-- Navigation Bar -->
     <nav>
         <ul>
@@ -22,12 +56,17 @@
     </nav>
 
     <!-- About Section -->
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Hello! I'm Alexia, a passionate data enthusiast with a knack for transforming data into compelling stories through code and visualization. With a background in aviation, and computer science, I've honed my skills in primarily python, R, and SQL, while being particularly fascinated by the power of data visualization to reveal insights, inform decisions, and to remove as much opinion about topics that I can.
-            On my GitHub, you'll find a portfolio of projects ranging from exploratory data analysis to sophisticated interactive visualizations.  Whether I'm uncovering trends in large datasets or developing tools that empower users to interact with data in new ways, I'm always looking for the next challenge that pushes the boundaries of what's possible with data. Let's connect and explore how we can make data-driven decisions more intuitive and impactful.
-            </p>
-    </section>
+   
+
+        <section id="about" class="py-5">
+  <div class="container">
+    <h2>About Me</h2>
+    <p><p>Hello! I'm Alexia, a passionate data enthusiast with a knack for transforming data into compelling stories through code and visualization. With a background in aviation, and computer science, I've honed my skills in primarily python, R, and SQL, while being particularly fascinated by the power of data visualization to reveal insights, inform decisions, and to remove as much opinion about topics that I can.
+            On my GitHub, you'll find a portfolio of projects ranging from exploratory data analysis to sophisticated interactive visualizations.  Whether I'm uncovering trends in large datasets or developing tools that empower users to interact with data in new ways, I'm always looking for the next challenge that pushes the boundaries of what's possible with data. Let's connect and explore how we can make data-driven decisions more intuitive and impactful.</p>
+  </div>
+</section>
+
+    
 
     <!-- Projects Section -->
     <section id="projects">
@@ -38,6 +77,23 @@
             <!-- Add more projects as needed -->
         </ul>
     </section>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+    if (this.hash !== "") {
+      event.preventDefault();
+      var hash = this.hash;
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+        window.location.hash = hash;
+      });
+    }
+  });
+});
+</script>
 
     <!-- Contact Section -->
     <section id="contact">
@@ -49,10 +105,14 @@
 
     <!-- Footer -->
     <footer>
+    <footer class="bg-dark text-center text-white-50 py-3">
+  <div class="container">
+    © 2024 Your Name | <a href="www.linkedin.com/in/alexia-vasquez-664577182" class="text-reset">LinkedIn</a> | <a href="https://github.com/Awines1" class="text-reset">GitHub</a>
+  </div>
+</footer>
+
         <p>&copy; 2024 Alexia Vasquez</p>
     </footer>
 
 </body>
 </html>
-
-
