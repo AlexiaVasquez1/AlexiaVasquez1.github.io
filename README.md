@@ -26,7 +26,6 @@
         <h2>About Me</h2>
         <p>Hello! I'm Alexia, a passionate data enthusiast with a knack for transforming data into compelling stories through code and visualization. With a background in aviation, and computer science, I've honed my skills in primarily python, R, and SQL, while being particularly fascinated by the power of data visualization to reveal insights, inform decisions, and to remove as much opinion about topics that I can.
             On my GitHub, you'll find a portfolio of projects ranging from exploratory data analysis to sophisticated interactive visualizations.  Whether I'm uncovering trends in large datasets or developing tools that empower users to interact with data in new ways, I'm always looking for the next challenge that pushes the boundaries of what's possible with data. Let's connect and explore how we can make data-driven decisions more intuitive and impactful.
-            "C:\Users\lexiw\OneDrive\Desktop\Alexia Vasquez Resume.docx"
             </p>
     </section>
 
