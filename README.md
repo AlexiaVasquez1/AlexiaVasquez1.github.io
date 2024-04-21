@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,6 +10,8 @@
     <style>
         body {
             padding-top: 5rem;
+            background: linear-gradient(to right, black, #474747); /* Black to chrome gradient background */
+            color: #ffffff; /* White text color for better contrast */
         }
         nav ul {
             list-style-type: none;
@@ -20,12 +22,21 @@
             margin-right: 10px;
         }
         footer {
-            background-color: #f8f9fa;
+            background-color: #202020; /* Dark footer for consistency with the theme */
+            color: #c0c0c0; /* Chrome text color for contrast */
             text-align: center;
             padding: 1rem 0;
             position: fixed;
             width: 100%;
             bottom: 0;
+        }
+        section {
+            background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent black background for sections */
+            margin: 1rem 0;
+            padding: 1rem;
+            border: 1px solid #c0c0c0; /* Chrome-colored border */
+            border-radius: 10px; /* Rounded corners for the boxes */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Subtle shadow for depth */
         }
     </style>
 </head>
@@ -69,7 +80,7 @@
         <h2>Contact Me</h2>
         <p>Email: Alexiavasquez1@yahoo.com</p>
         <p>Phone: +1 682-239-0598</p>
-        <p>Social Media: <a href="https://www.linkedin.com/in/alexia-vasquez-664577182">LinkedIn</a></p>
+        <p>Social Media: <a href="https://www.linkedin.com/in/alexia-vasquez-664577182" class="text-reset">LinkedIn</a></p>
     </section>
 
     <!-- Footer -->
