@@ -83,6 +83,8 @@
         <p>Email: Alexiavasquez1@yahoo.com</p>
         <p>Phone: +1 682-239-0598</p>
         <p>Social Media: <a href="https://www.linkedin.com/in/alexia-vasquez-664577182" class="text-reset">LinkedIn</a></p>
+        <p>Social Media: <a href="https://github.com/AlexiaVasquez1" class="text-reset">Github</a></p>
+
     </section>
 
     <!-- Footer -->
