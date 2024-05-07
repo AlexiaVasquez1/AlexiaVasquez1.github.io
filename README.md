@@ -69,7 +69,7 @@
     <section id="projects" class="container mt-4">
         <h2>Projects</h2>
         <ul>
-            <li><a href="link_to_project_1">Project 1</a></li>
+            <li><a href="https://github.com/AlexiaVasquez1/R-code-w-visualization/blob/main/DSC%20310-%20week%2010%20-%20assignment%2010.pdf ">Project 1</a></li>
             <li><a href="link_to_project_2">Project 2</a></li>
             <!-- Add more projects as needed -->
         </ul>
