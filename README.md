@@ -70,7 +70,9 @@
         <h2>Projects</h2>
         <ul>
             <li><a href="https://github.com/AlexiaVasquez1/R-code-w-visualization/blob/main/DSC%20310-%20week%2010%20-%20assignment%2010.pdf ">Project 1</a></li>
-            <li><a href="link_to_project_2">Project 2</a></li>
+            <li><a href="https://github.com/AlexiaVasquez1/Matplot-Numpy-Seaborn/blob/main/DSC%20310%20-%20week%202%20-%20assignment%202.2%20part%201%20(not%20ggplot).pdf">Project 2</a></li>
+            <li><a href="https://github.com/AlexiaVasquez1/Matplot-Numpy-Seaborn/blob/main/DSC%20350%20-%20Week%208%20-%20assignment%208.2.pdf">Project 3</a></li>
+
             <!-- Add more projects as needed -->
         </ul>
     </section>
