@@ -74,7 +74,7 @@
             <li><a href="https://github.com/AlexiaVasquez1/Matplot-Numpy-Seaborn/blob/main/DSC%20350%20-%20Week%208%20-%20assignment%208.2.pdf">Project 3</a></li>
             <li><a href="https://github.com/AlexiaVasquez1/DSC-450/blob/main/Project%201-week5-%20Impact%20of%20vaccination%20programs%20on%20public%20health%20outcome.ipynb">Project 4</a></li>
             <li><a href="https://github.com/AlexiaVasquez1/DSC-450/blob/main/DSC%20450%20-%20Project%202%20final.docx">Project 5</a></li>
-            <li><a href="">Project 6</a></li>
+            <li><a href="https://github.com/AlexiaVasquez1/DSC-450/blob/main/DSC_450-%20Project%203%20-%20final.pdf">Project 6</a></li>
 
             <!-- Add more projects as needed -->
         </ul>
